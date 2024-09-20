@@ -974,7 +974,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _currentState: 0
   _reloadTime: 1
-  _bulletHolePrefab: {fileID: 0}
+  _bulletHolePrefab: {fileID: 7966102863077576254, guid: dbff9ddd26e613248bc396d04a49a4fe, type: 3}
   _maxBulletHoles: 5
 --- !u!82 &1556812086
 AudioSource:
